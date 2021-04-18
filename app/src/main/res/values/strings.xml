@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">1LabJurele</string>
     <string name="btn_do">Paspausk</string>
-    <string name="text_view">Pirmas Laboratorinis</string>
+    <string name="txt_show">Sveiki, cia 1 Lab</string>
+    <string name="txt_changed">Tekstas pasikeite!</string>
 
 </resources>
