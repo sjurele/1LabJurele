@@ -3,7 +3,7 @@
     <string name="btn_do">Pakeisti</string>
     <string name="btn_paint">Spalvinti</string>
     <string name="btn_begin">Pradzia</string>
-    <string name="txt_show">Sveiki, cia 1 Lab. Pakeitimui</string>
+    <string name="txt_show">Sveiki, cia 1 Lab</string>
     <string name="txt_changed">Tekstas pasikeite!</string>
 
 </resources>
